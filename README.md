@@ -1,6 +1,6 @@
 # Article 3
 
-Bienvenue sur la page GitHub pour les exercices de l'article 3 de la revue Le Faisceau de l'AEMQ. Malheureusement, le lien que vous avez utilisé n'a pas fonctionné. Simplement cliquez sur le lien ci-bas pour vous dirigez vers les exercices : 
+Bienvenue sur la page GitHub pour les exercices de l'article 3 de la revue Le Faisceau de l'AEMQ. Malheureusement, le lien que vous avez utilisé n'a pas fonctionné. Simplement à cliquer sur le lien ci-bas pour vous dirigez vers les exercices : 
 
 [Exercices article 3](https://github.com/TheGeekAppraiser/AEMQ-A3/wiki)
 
